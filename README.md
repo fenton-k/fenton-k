@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fenton
-  - cs sophomore @ st. olaf 
+  - cs junior @ st. olaf 
   - ✉️ krupp1@stolaf.edu
 
 <!---
